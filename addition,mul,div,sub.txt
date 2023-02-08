@@ -1,0 +1,24 @@
+Begin
+   num1 num2
+
+   addition,subtraction,,multiplication,division
+
+   print(" num 1")
+   input num1
+   print(" num 2")
+   input num2
+
+   addition=num1+num2
+
+   subtraction=num1-num2
+
+   mul=num1*num2
+
+   div=num1/num2
+  
+  print("addition:",add)
+  print("subtraction:",sub)
+  print("multiplication:",mul)
+  print("dividsion:",div)
+  
+ end
