@@ -1,0 +1,22 @@
+START
+
+number,num,i
+ 
+
+print("enter the num to find the factors")
+input num
+
+
+for(i=1;i<=num/2;i++)
+
+{
+if(num%2==0)
+
+{
+print(i)
+
+}
+
+}
+
+STOP
