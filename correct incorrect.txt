@@ -1,0 +1,13 @@
+def check_number(num):
+    try:
+        float(num)
+        return True
+    except ValueError:
+        return False
+
+input_num = input("Enter a number: ")
+
+if check_number(input_num):
+    print("Correct number")
+else:
+    print("Incorrect number")

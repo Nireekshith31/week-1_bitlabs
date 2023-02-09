@@ -1,0 +1,18 @@
+Initialize i=10
+                            i>0           
+                           
+                                     
+                         
+                           i%2 == 0     
+                           
+                                     
+                          
+                           print(i)     
+                           
+                                     
+                          
+                           i = i-1      
+                           
+                                     
+                          
+                             repeat
